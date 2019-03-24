@@ -36,7 +36,7 @@ def while_iterator(number_of_times)
   i = 0
   while i < 7
     puts phrase
-    i++
+    i+=1
   end
 end
 
